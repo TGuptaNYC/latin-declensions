@@ -37,6 +37,7 @@ headings:
   - dat
   - acc
   - abl
+  - voc
 
 left_rows:
   - groups:
@@ -50,6 +51,7 @@ left_rows:
           dat: aqu[ae]
           acc: aqu[am]
           abl: aqu[ā]
+          voc: aqu[a]
         - color: red 
           title: plural 
           nom: aqu[ae] 
@@ -57,6 +59,7 @@ left_rows:
           dat: aqu[īs] 
           acc: aqu[ās] 
           abl: aqu[īs]
+          voc: aqu[ae]
   - groups:
     - title: 2nd Declension
       data:
